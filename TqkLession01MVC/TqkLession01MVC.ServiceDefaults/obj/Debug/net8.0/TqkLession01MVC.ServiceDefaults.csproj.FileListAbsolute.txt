@@ -1,0 +1,13 @@
+D:\K24CNT1.NET\TqkLession01MVC\TqkLession01MVC.ServiceDefaults\bin\Debug\net8.0\TqkLession01MVC.ServiceDefaults.deps.json
+D:\K24CNT1.NET\TqkLession01MVC\TqkLession01MVC.ServiceDefaults\bin\Debug\net8.0\TqkLession01MVC.ServiceDefaults.dll
+D:\K24CNT1.NET\TqkLession01MVC\TqkLession01MVC.ServiceDefaults\bin\Debug\net8.0\TqkLession01MVC.ServiceDefaults.pdb
+D:\K24CNT1.NET\TqkLession01MVC\TqkLession01MVC.ServiceDefaults\obj\Debug\net8.0\TqkLession01MVC.ServiceDefaults.csproj.AssemblyReference.cache
+D:\K24CNT1.NET\TqkLession01MVC\TqkLession01MVC.ServiceDefaults\obj\Debug\net8.0\TqkLession01MVC.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+D:\K24CNT1.NET\TqkLession01MVC\TqkLession01MVC.ServiceDefaults\obj\Debug\net8.0\TqkLession01MVC.ServiceDefaults.AssemblyInfoInputs.cache
+D:\K24CNT1.NET\TqkLession01MVC\TqkLession01MVC.ServiceDefaults\obj\Debug\net8.0\TqkLession01MVC.ServiceDefaults.AssemblyInfo.cs
+D:\K24CNT1.NET\TqkLession01MVC\TqkLession01MVC.ServiceDefaults\obj\Debug\net8.0\TqkLession01MVC.ServiceDefaults.csproj.CoreCompileInputs.cache
+D:\K24CNT1.NET\TqkLession01MVC\TqkLession01MVC.ServiceDefaults\obj\Debug\net8.0\TqkLession01MVC.ServiceDefaults.sourcelink.json
+D:\K24CNT1.NET\TqkLession01MVC\TqkLession01MVC.ServiceDefaults\obj\Debug\net8.0\TqkLession01MVC.ServiceDefaults.dll
+D:\K24CNT1.NET\TqkLession01MVC\TqkLession01MVC.ServiceDefaults\obj\Debug\net8.0\refint\TqkLession01MVC.ServiceDefaults.dll
+D:\K24CNT1.NET\TqkLession01MVC\TqkLession01MVC.ServiceDefaults\obj\Debug\net8.0\TqkLession01MVC.ServiceDefaults.pdb
+D:\K24CNT1.NET\TqkLession01MVC\TqkLession01MVC.ServiceDefaults\obj\Debug\net8.0\ref\TqkLession01MVC.ServiceDefaults.dll

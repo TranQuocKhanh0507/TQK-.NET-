@@ -1,0 +1,16 @@
+<Project Sdk="Aspire.AppHost.Sdk/13.1.0">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <UserSecretsId>ddade6de-fe97-4fe5-9faf-bf9841bb0b43</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TqkLession01MVC.ApiService\TqkLession01MVC.ApiService.csproj" />
+    <ProjectReference Include="..\TqkLession01MVC.Web\TqkLession01MVC.Web.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../TqkLession01MVC/TqkLession01MVC.ApiService/TqkLession01MVC.ApiService.csproj" />
+  <Project Path="../TqkLession01MVC/TqkLession01MVC.AppHost/TqkLession01MVC.AppHost.csproj" />
+  <Project Path="../TqkLession01MVC/TqkLession01MVC.ServiceDefaults/TqkLession01MVC.ServiceDefaults.csproj" />
+  <Project Path="../TqkLession01MVC/TqkLession01MVC.Web/TqkLession01MVC.Web.csproj" />
+  <Project Path="TqkLession01.csproj" />
+</Solution>
