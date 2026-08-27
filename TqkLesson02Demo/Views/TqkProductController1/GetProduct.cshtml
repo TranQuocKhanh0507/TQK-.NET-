@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "GetProduct";
+}
+
+<h1>GetProduct</h1>
+<h2>Dữ liệu lấy từ ViewData</h2>
+@{
+    var productVD = ViewData["productVD"] as TqkLesson02Demo.Models.TqkProduct;
+}
+<div class="alert alert-danger">
+    <p>Mã: @productVD.ProductId</p>
+    <p>Tên: @productVD.ProductName</p>
+    <p>Năm: @productVD.YearRelease</p>
+    <p>Giá: @productVD.Price</p>
+</div>
+
+<hr>
+<h2>Dữ liệu lấy từ ViewBag</h2>
+<div class="alert alert-info">
+    <p>Mã: @ViewBag.productVB.ProductId</p>
+    <p>Tên: @ViewBag.productVB.ProductName</p>
+    <p>Năm: @ViewBag.productVB.YearRelease</p>
+    <p>Giá: @ViewBag.productVB.Price</p>
+</div>
